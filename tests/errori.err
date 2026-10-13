@@ -1,0 +1,8 @@
+riga 2: errore: divisione per zero
+riga 3: errore: mi aspettavo un numero, una variabile o '('
+  3 + * 4
+      ^
+riga 4: errore: manca la parentesi chiusa ')'
+  (1 + 2
+        ^
+riga 5: errore: variabile 'z' non definita
